@@ -3,7 +3,7 @@ import wget
 import subprocess
 
 
-URL = 'https://cloud.tochka.com/s/sWdM75MswZwT5Zs/download?path=%2F_Distrib&files='
+URL = '' # URL удален по соображеним безопасности 
 NAME_LIST = ['1.Appx', '2.Appx', '3.Appx', '4.Appx', '5.Appx', '0.Msixbundle']
 DIR = r'C:\WA_Install'
 
